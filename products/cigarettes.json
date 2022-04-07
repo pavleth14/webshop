@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pall Mall",
+        "price": 310,
+        "img": "https://res.cloudinary.com/saucey/image/upload/v1470355208/c6asfodlejc6vskgwzkq.jpg"
+    },
+    {
+        "name": "Camel",
+        "price": 320,
+        "img": "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012300000017/471f679e3569d9bc18608ddfea80fd1b_large.png&width=512&type=webp&quality=90"
+    },
+    {
+        "name": "Lucky Strike",
+        "price": 360,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrImVnjB4gcvF67pNamYyq3YCNP7gL8BPbfter4G-YGLWbeH5FzY1gviMcnkYeiBB-dqA&usqp=CAU"
+    },
+    {
+        "name": "Marlboro Light",
+        "price": 400,
+        "img": "https://cdn.shopify.com/s/files/1/0371/5507/8189/products/marlboro-light-100-box_300x300.jpg?v=1585109326"
+    },
+    {
+        "name": "Winston",
+        "price": 370,
+        "img": "https://cigsway.com/wp-content/uploads/2020/06/Winston-Blue-Cigsway.jpg"
+    },
+    {
+        "name": "Davidoff",
+        "price": 400,
+        "img": "https://cdn.shopify.com/s/files/1/0371/5507/8189/products/marlboro-light-100-box_300x300.jpg?v=1585109326"
+    }
+]
